@@ -4,6 +4,12 @@
 This Excel dashboard project analyzes employee salary data from the **San Francisco City Government (2011–2014)**. The raw dataset was cleaned, transformed, and visualized using Excel formulas, macros, and pivot charts to uncover salary patterns, top earning roles, and workforce distribution. The goal was to build an interactive and insightful tool for HR professionals and data analysts.
 
 ---
+## Download Excel Dashboard (.xlsm):
+
+- [Download from GitHub Releases](https://github.com/Rutujakarne22/Employee_Salary_Analysis/releases/tag/v1.0)
+
+
+---
 
 ## Problem Statement  
 The HR and payroll departments maintain large volumes of employee salary data, but the raw format often contains inconsistencies, blanks, duplicates, and poor structure. Without proper data organization, data teams struggle to derive timely and accurate reports for management decisions.
