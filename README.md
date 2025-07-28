@@ -13,12 +13,12 @@ This project aims to transform raw payroll data into a clean, structured, and in
 ---
 
 ## Objective  
-To clean, model, and visualize employee salary data using Excel so that decision-makers and HR analysts can understand pay distribution, identify high-earning roles, monitor workforce types, and support compensation planning.
+To clean, analyze, and visualize employee salary data using Excel so that decision-makers and HR analysts can understand pay distribution, identify high-earning roles, monitor workforce types, and support compensation planning.
 
 ---
 
 ## Tools & Techniques Used  
-- Microsoft Excel 2016  
+- Microsoft Excel  
 - Excel formulas (`TRIM`, `PROPER`, `IF`, `SUM`, `SUBSTITUTE`, etc.)  
 - Pivot tables and charts  
 - Slicers and KPI cards  
